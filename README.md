@@ -46,7 +46,7 @@ Store Overview for this licensed Application.
 
 # 5. USE OF DATA
 You acknowledge that Licensor will be able to access and adjust Your downloaded licensed Application content and your personal information, and that Licensor's use of such material and
-information is subject to your legal agreements with Licensor and Licensor's privacy policy: https://github.com/degisner/Five-Cents/blob/main/Privacy-Policy.md.
+information is subject to your legal agreements with Licensor and Licensor's privacy policy: https://theflutterfire.github.io/PrivatePolicyWF/
 
 # 6. USER GENERATED CONTRIBUTIONS
 The Application may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create,
